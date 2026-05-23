@@ -1,5 +1,4 @@
 # 🍕 Fast Pizza — Online Pizza Ordering App
-
 A fast and simple pizza ordering app where users can browse the menu, add items to cart, and place orders with GPS-based delivery.
 
 ## 🌐 Live Demo
@@ -8,7 +7,22 @@ A fast and simple pizza ordering app where users can browse the menu, add items 
 ---
 
 ## 🛠️ Built With
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind,vite)](https://skillicons.dev)
+
+<p>
+  <img src="https://api.iconify.design/logos:html-5.svg" width="50" height="50" alt="HTML" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:css-3.svg" width="50" height="50" alt="CSS" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:javascript.svg" width="50" height="50" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:react.svg" width="50" height="50" alt="React" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:redux.svg" width="50" height="50" alt="Redux" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="50" height="50" alt="Tailwind CSS" />
+  &nbsp;&nbsp;
+  <img src="https://api.iconify.design/logos:vitejs.svg" width="50" height="50" alt="Vite" />
+</p>
 
 ---
 
