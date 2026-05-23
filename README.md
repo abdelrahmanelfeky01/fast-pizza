@@ -1,8 +1,20 @@
-# React + Vite
+# 🍕 Fast Pizza — Online Pizza Ordering App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fast and simple pizza ordering app where users can browse the menu, add items to cart, and place orders with GPS-based delivery.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
+<a href="https://fast-pizza.abdelrahmanelfeky.com" target="_blank">👉 View Live Site</a>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🛠️ Built With
+[![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,vite)](https://skillicons.dev)
+
+---
+
+## ✨ Features
+- 🛒 Add, remove, and update pizza quantities in the cart
+- 📍 Auto-detect delivery address using GPS geolocation
+- ⚡ Priority orders with a 20% price surcharge
+- 🔍 Search for any order by order ID
+- 📦 Real-time order status tracking
