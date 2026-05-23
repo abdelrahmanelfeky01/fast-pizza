@@ -8,7 +8,7 @@ A fast and simple pizza ordering app where users can browse the menu, add items 
 ---
 
 ## 🛠️ Built With
-[![My Skills](https://skillicons.dev/icons?i=react,redux,tailwind,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind,vite)](https://skillicons.dev)
 
 ---
 
